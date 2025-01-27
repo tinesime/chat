@@ -1,0 +1,12 @@
+{
+  "require": {
+    "cboden/ratchet": "^0.4.4",
+    "monolog/monolog": "^3.8",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Chat\\": "src/"
+    }
+  }
+}
